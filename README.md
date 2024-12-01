@@ -1,5 +1,4 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&pause=1000&color=FFFFFF&width=435&lines=Hello!+I'm+Yue+Da!" alt="Typing SVG" />
-<br>
 
 ## About me
 I'm Yue Da, a final year Computer Science student with a deep passion for coding and technology. I love expanding my knowledge on both front-end and back-end development, constantly learning and building creative, meaningful, and occasionally quirky projects.
@@ -8,8 +7,8 @@ Whether it's a new framework, a quirky side project, or cutting-edge tech, I lov
   - *NodeJS*
   - *TypeScript*
   - *C++*
-- :relaxed: I’m eager to join new projects.
-- Outside tech, I enjoy hanging out with my friends and doing bjj🥋
+- :relaxed: I’m looking to join new projects!
+- My hobbies include hanging out with my friends and doing bjj🥋!
 - 📫 Reach out to me at: <a href="yyuedaa@gmail.com">yyuedaa@gmail.com</a>
 
 ## 💻 Skills
