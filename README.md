@@ -1,5 +1,7 @@
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://github.com/user-attachments/assets/80bb5c03-9976-4d29-90aa-a3d92a85e64c" alt="Profile Picture" width=200px/>
 <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&pause=1000&color=FFFFFF&width=435&lines=Hello!+I'm+Yue+Da!" alt="Typing SVG" />
+</div>
 
 ## About me
 I'm Yue Da, a final year Computer Science student with a deep passion for coding and technology. I love expanding my knowledge on both front-end and back-end development, constantly learning and building creative, meaningful, and occasionally quirky projects.
