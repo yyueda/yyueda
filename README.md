@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/80bb5c03-9976-4d29-90aa-a3d92a85e64c" alt="Profile Picture"/>
+<img src="https://github.com/user-attachments/assets/80bb5c03-9976-4d29-90aa-a3d92a85e64c" alt="Profile Picture" width=200px/>
 <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&pause=1000&color=FFFFFF&width=435&lines=Hello!+I'm+Yue+Da!" alt="Typing SVG" />
 
 ## About me
