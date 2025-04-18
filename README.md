@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/80bb5c03-9976-4d29-90aa-a3d92a85e64c" width="200" alt="Profile Picture" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&pause=1000&color=FFFFFF&width=435&lines=Hello!+I'm+Yue+Da!" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=GoogleSans&size=32&pause=1000&center=true&color=FFFFFF&width=435&lines=Hello!+I'm+Yue+Da!" alt="Typing SVG" />
 </p>
 
 ## About me
