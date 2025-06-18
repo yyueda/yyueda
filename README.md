@@ -11,9 +11,9 @@ Whether it's a new framework, a quirky side project, or cutting-edge tech, I lov
 - :books: I’m currently expanding my knowledge on ...
   - *NodeJS*
   - *TypeScript*
-  - *C++*
+  - *Golang*
 - :relaxed: I’m looking to join new projects!
-- My hobbies include hanging out with my friends and doing bjj🥋!
+- My hobbies include hanging out with my friends and going to the gym. I'm also a BJJ🥋 blue belt!
 - 📫 Reach out to me at: <a href="yyuedaa@gmail.com">yyuedaa@gmail.com</a>
 
 ## 💻 Skills
@@ -35,6 +35,7 @@ Whether it's a new framework, a quirky side project, or cutting-edge tech, I lov
 ###### Backend Development:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 ###### Deployment & Cloud Services:
